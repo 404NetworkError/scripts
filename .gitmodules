@@ -1,9 +1,6 @@
 [submodule "tools/executor"]
 	path = tools/executor
 	url = https://github.com/jdbivens42/Tools.git
-[submodule "tools/AutoBlue"]
-	path = tools/AutoBlue
-	url = https://github.com/3ndG4me/AutoBlue-MS17-010.git
 [submodule "tools/peda"]
 	path = tools/peda
 	url = https://github.com/longld/peda.git
@@ -19,9 +16,6 @@
 [submodule "tools/old-lscript"]
 	path = tools/old-lscript
 	url = https://github.com/404NetworkError/lscript.git
-[submodule "tools/Probable-Wordlists"]
-	path = tools/Probable-Wordlists
-	url = https://github.com/berzerk0/Probable-Wordlists.git
 [submodule "tools/ssh-audit"]
 	path = tools/ssh-audit
 	url = https://github.com/jtesta/ssh-audit.git
@@ -32,3 +26,6 @@
 [submodule "tools/pyfiscan"]
 	path = tools/pyfiscan
 	url = https://github.com/fgeek/pyfiscan.git
+[submodule "tools/Probable-Wordlists"]
+	path = tools/Probable-Wordlists
+	url = https://github.com/berzerk0/Probable-Wordlists.git
