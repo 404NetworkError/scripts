@@ -1,6 +1,6 @@
 [submodule "tools/executor"]
 	path = tools/executor
-    url = https://github.com/jdbivens42/Tools.git
+	url = https://github.com/jdbivens42/Tools.git
     ignore = dirty
 [submodule "tools/peda"]
 	path = tools/peda
@@ -54,7 +54,7 @@
     ignore = dirty
 [submodule "tools/testssl.sh"]
 	path = tools/testssl.sh
-    url = https://github.com/drwetter/testssl.sh.git
+	url = https://github.com/drwetter/testssl.sh.git
     branch = 2.9dev
 	shallow = true
     ignore = dirty
