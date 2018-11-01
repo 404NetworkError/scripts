@@ -1,6 +1,6 @@
 [submodule "tools/executor"]
 	path = tools/executor
-	url = https://github.com/jdbivens42/Tools.git
+    url = https://github.com/jdbivens42/Tools.git
     ignore = dirty
 [submodule "tools/peda"]
 	path = tools/peda
@@ -54,7 +54,7 @@
     ignore = dirty
 [submodule "tools/testssl.sh"]
 	path = tools/testssl.sh
-	url = https://github.com/drwetter/testssl.sh.git
+    url = https://github.com/drwetter/testssl.sh.git
     branch = 2.9dev
 	shallow = true
     ignore = dirty
@@ -72,4 +72,19 @@
 	path = tools/pyfiscan
 	url = https://github.com/fgeek/pyfiscan.git
 	shallow = true
+    ignore = dirty
+[submodule "tools/nishang"]
+	path = tools/nishang
+    url = https://github.com/samratashok/nishang.git
+    shallow = true
+    ignore = dirty
+[submodule "tools/ADAPE-Script"]
+	path = tools/ADAPE-Script
+	url = https://github.com/hausec/ADAPE-Script.git
+    shallow = true
+    ignore = dirty
+[submodule "tools/password-audit"]
+	path = tools/password-audit
+	url = https://github.com/ktneely/password-audit.git
+    shallow = true
     ignore = dirty
